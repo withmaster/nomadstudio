@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account name="withmaster" id="d0d5f8a8-9be7-4e48-a591-b74018187fae">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
